@@ -9,14 +9,16 @@ Using NPM:
 ```js
 npm i vue-materials-icon
 
-//include this cdn in your root index.html head 
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+npm i material-icons
 ```
 
 ## Usage
 Import it in your main file `e.g main.js`
 ```js
 import Vue from 'vue'
+
+//import material-icon scss
+import 'material-icons/iconfont/material-icons.scss';
 
 //defined as global component
 Vue.component('V-MaterialIcon', require('vue-materials-icon/src/components/MaterialIcon').default);
