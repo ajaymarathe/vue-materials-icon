@@ -1,6 +1,6 @@
 {
   "name": "vue-materials-icon",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -23,7 +23,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.6.10"
   },
-  "description": "🍺 Hi there, font-awesome icons for react lovers <3, Thanks...",
+  "description": "🍺 Hi there, vue-material icons for react lovers <3, Thanks...",
   "main": "src/components/MaterialIcon.vue",
   "repository": {
     "type": "git",
