@@ -1,0 +1,52 @@
+{
+  "name": "vue-materials-icon",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "material-icon": "^0.1.4",
+    "material-icons": "^0.3.1",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.10",
+    "vue-material-icon-demo": "^0.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "description": "🍺 Hi there, font-awesome icons for react lovers <3, Thanks...",
+  "main": "src/components/MaterialIcon.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaymarathe/vue-materials-icon.git"
+  },
+  "keywords": [
+    "vue-materials-icon",
+    "vue-material-icon",
+    "vue-md-icon",
+    "material-icon",
+    "material-icons",
+    "v-material-icon",
+    "vue-material-design-icons",
+    "vue-material-design",
+    "mdi",
+    "vue.js",
+    "vue-icon",
+    "material-vue"
+  ],
+  "author": "ajay marathe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaymarathe/vue-materials-icon/issues"
+  },
+  "homepage": "https://github.com/ajaymarathe/vue-materials-icon#readme"
+}
