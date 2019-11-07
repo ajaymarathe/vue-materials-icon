@@ -1,7 +1,8 @@
 # vue-materials-icon
 🍺 Hi there, font-awesome icons for react lovers <3, Thanks...
 
-[![NPM](https://img.shields.io/npm/v/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon)  [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon)  [![NPM](https://img.shields.io/npm/dt/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 
 ## Installation
