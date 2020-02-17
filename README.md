@@ -1,5 +1,5 @@
 # Vue Materials Icon
-🍺 Material Icon for Vue lovers. Coded by Bootcatch.
+🍺 Material Icon for Vue lovers. Coded by [Bootcatch](http://bootcatch.com/).
 
 [![NPM](https://img.shields.io/npm/v/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon)  [![NPM](https://img.shields.io/npm/dt/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon) 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -49,4 +49,4 @@ Ajay Marathe
 
 ## Copyright and License
 
-Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/vue-fontawesome/blob/master/LICENSE) license.
+Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/vue-materials-icon/blob/master/LICENSE) license.
