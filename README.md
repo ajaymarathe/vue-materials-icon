@@ -8,9 +8,9 @@
 ## Installation
 Using NPM:
 ```js
-npm i vue-materials-icon
+npm i vue-materials-icon --save 
 
-npm i material-icons
+npm i material-icons --save 
 ```
 
 ## Usage
@@ -19,12 +19,10 @@ Import it in your main file `e.g main.js`
 import Vue from 'vue'
 
 //import material-icon scss
-import 'material-icons/iconfont/material-icons.scss';
+import 'material-icons/iconfont/material-icons.css';
 
 //defined as global component
-Vue.component('V-MaterialIcon', require('vue-materials-icon/src/components/MaterialIcon').default);
-
-Vue.config.productionTip = false
+Vue.component('V-MaterialIcon', require('vue-materials-icon/MaterialIcon').default);
 
 new Vue({
   render: h => h(App),

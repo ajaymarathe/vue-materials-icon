@@ -6,9 +6,8 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "MaterialIcon",
   props: {
-    msg: String,
     icon: String,
     size: String,
     color: String
