@@ -36,10 +36,10 @@ Use wherever in your template..
 ```
 
 ## Note
-- Add only name to icon, e.g `icon="android"`
-- **icon** - Material Icon name will find here [material icons](https://material.io/resources/icons/?style=baseline)
-- **size** - Icon size in `rem`.
-- **color** - You can give any valid value `e.g red, yellow, #fffff, #ff0000.`
+- *Add only name to icon, e.g `icon="android"`*
+- ***icon** - Material Icon name will find here [material icons](https://material.io/resources/icons/?style=baseline)*
+- ***size** - Icon size in `rem`.*
+- ***color** - You can give any valid value `e.g red, yellow, #fffff, #ff0000.`*
 
 ## Author
 
