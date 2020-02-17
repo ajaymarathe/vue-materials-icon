@@ -1,5 +1,5 @@
-# vue-materials-icon
-🍺 Hi there, font-awesome icons for react lovers <3, Thanks...
+# Vue Materials Icon
+🍺 Material Icon for Vue lovers. Coded by Bootcatch.
 
 [![NPM](https://img.shields.io/npm/v/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon)  [![NPM](https://img.shields.io/npm/dt/vue-materials-icon.svg)](https://www.npmjs.com/package/vue-materials-icon) 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -36,10 +36,10 @@ Use wherever in your template..
 ```
 
 ## Note
-- add only name to icon, e.g `icon="android"`
-- **icon** - font-awesome icon name will find here [material icons](https://material.io/resources/icons/?style=baseline)
-- **size** - icon size in `rem`.
-- **color** - you can give any valid value `e.g red, yellow, #fffff, #ff0000.`
+- Add only name to icon, e.g `icon="android"`
+- **icon** - Material Icon name will find here [material icons](https://material.io/resources/icons/?style=baseline)
+- **size** - Icon size in `rem`.
+- **color** - You can give any valid value `e.g red, yellow, #fffff, #ff0000.`
 
 ## Author
 
