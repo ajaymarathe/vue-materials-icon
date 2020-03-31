@@ -1,7 +1,5 @@
 <template>
-  <div class="hello">
     <i class="material-icons" :style="iconStyle">{{ icon }}</i>
-  </div>
 </template>
 
 <script>

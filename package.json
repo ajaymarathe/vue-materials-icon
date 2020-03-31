@@ -1,6 +1,6 @@
 {
   "name": "vue-materials-icon",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -17,7 +17,7 @@
     "@vue/cli-service": "^3.11.0",
     "vue-template-compiler": "^2.6.10"
   },
-  "description": "🍺 Hi there, vue-material icons for react lovers <3, Thanks...",
+  "description": "🍺 Material Icon for Vue lovers. Coded by Bootcatch.",
   "main": "src/components/MaterialIcon.vue",
   "repository": {
     "type": "git",
@@ -37,7 +37,8 @@
     "vue-icon",
     "material-vue",
     "icon-vue",
-    "icon"
+    "icon",
+    "vue-icons"
   ],
   "author": "ajay marathe",
   "license": "MIT",
