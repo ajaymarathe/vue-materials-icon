@@ -14,7 +14,7 @@
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "vue-template-compiler": "^2.6.10"
   },
   "description": "🍺 Material Icon for Vue lovers. Coded by Bootcatch.",
